@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit 6
+=======
+commit 2
+>>>>>>> parent of 5da7d02... Update ignore_this_file.txt
